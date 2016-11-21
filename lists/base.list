@@ -1,0 +1,7 @@
+ntpdate
+oneshot
+cznic-repo-keys
+foris
+lighttpd-mod-setenv
+
+CONFIG_PACKAGE_openssh_server_nuci_support=y
