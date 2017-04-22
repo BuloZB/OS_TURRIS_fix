@@ -102,7 +102,7 @@ define DownloadMethod/git
 		rm -rf $(SUBDIR); \
 	)
 endef
-
+//define
 define DownloadMethod/bzr
 	$(call wrap_mirror, \
 		echo "Checking out files from the bzr repository..."; \
